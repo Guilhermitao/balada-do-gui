@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Desktop\balada 18+\balada 18+\bin\Debug\balada 18+.exe.config
+C:\Users\Tecnico\Desktop\balada 18+\balada 18+\bin\Debug\balada 18+.exe
+C:\Users\Tecnico\Desktop\balada 18+\balada 18+\bin\Debug\balada 18+.pdb
+C:\Users\Tecnico\Desktop\balada 18+\balada 18+\obj\Debug\balada 18+.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\balada 18+\balada 18+\obj\Debug\balada 18+.exe
+C:\Users\Tecnico\Desktop\balada 18+\balada 18+\obj\Debug\balada 18+.pdb
